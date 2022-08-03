@@ -1,1 +1,1 @@
-FrontEnd de mi porfolio para ArgentinaPrograma #YoProgramo.
+FrontEnd Estatico de mi porfolio para ArgentinaPrograma #YoProgramo.
